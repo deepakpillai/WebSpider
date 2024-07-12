@@ -42,11 +42,10 @@ Here is a brief overview of the main components of the WebSpider:
 - **Database Integration:** The do_db function (imported from the db module) saves crawled data in a structured format.
 
 ## Contributing
-
-## We welcome contributions! If you have ideas for new features, optimizations, or bug fixes, feel free to open an issue or submit a pull request.
+We welcome contributions! If you have ideas for new features, optimizations, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the apache 2.0 License.
+This project is licensed under the Apache 2.0 License.
 
 Acknowledgments
 Special thanks to all the open-source projects and contributors who made this project possible.
