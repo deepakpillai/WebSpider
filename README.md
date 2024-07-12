@@ -19,8 +19,8 @@ Welcome to WebSpider! This project is a comprehensive web crawler designed to in
 To get started with WebSpider, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/webspider.git
-cd webspider
+git clone git@github.com:deepakpillai/WebSpider.git
+cd WebSpider
 pip install -r requirements.txt
 ```
 
