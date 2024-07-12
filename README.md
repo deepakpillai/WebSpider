@@ -31,7 +31,8 @@ python app.py
 ```
 The crawler will start indexing the internet from a predefined list of seed URLs. You can customize the seed URLs in the script as per your requirements.
 
-##Code Overview
+## Code Overview
+<br />
 Here is a brief overview of the main components of the WebSpider:
 
 Crawling Logic: The crawl function handles the core crawling process, fetching pages, extracting metadata, and managing the crawling queue.
@@ -44,7 +45,7 @@ Contributing
 ## We welcome contributions! If you have ideas for new features, optimizations, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the apache 2.0 License.
 
 Acknowledgments
 Special thanks to all the open-source projects and contributors who made this project possible.
