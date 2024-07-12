@@ -20,16 +20,18 @@ To get started with WebSpider, clone the repository and install the required dep
 git clone https://github.com/yourusername/webspider.git
 cd webspider
 pip install -r requirements.txt
+```
 
 ## Usage
 To run the WebSpider, simply execute the main script:
 
-bash
-Copy code
+```bash
+
 python webspider.py
+```
 The crawler will start indexing the internet from a predefined list of seed URLs. You can customize the seed URLs in the script as per your requirements.
 
-Code Overview
+##Code Overview
 Here is a brief overview of the main components of the WebSpider:
 
 Crawling Logic: The crawl function handles the core crawling process, fetching pages, extracting metadata, and managing the crawling queue.
@@ -38,9 +40,10 @@ User-Agent Management: The get_useragent function randomly selects a user-agent 
 Unicode Handling: The convert_unicode_escape function ensures that Unicode escape sequences are properly converted.
 Database Integration: The do_db function (imported from the db module) saves crawled data in a structured format.
 Contributing
-We welcome contributions! If you have ideas for new features, optimizations, or bug fixes, feel free to open an issue or submit a pull request.
 
-License
+## We welcome contributions! If you have ideas for new features, optimizations, or bug fixes, feel free to open an issue or submit a pull request.
+
+## License
 This project is licensed under the MIT License.
 
 Acknowledgments
