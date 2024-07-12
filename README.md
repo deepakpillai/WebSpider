@@ -4,7 +4,7 @@ Welcome to WebSpider! This project is a comprehensive web crawler designed to in
 
 <img align="left" src="https://github.com/deepakpillai/WebSpider/blob/main/spider_banner.jpg?raw=true" width="100%"/>
 <br />
-<br />
+
 ## Features
 
 - **Efficient Crawling:** WebSpider uses advanced techniques to crawl websites quickly while respecting the robots.txt rules.
