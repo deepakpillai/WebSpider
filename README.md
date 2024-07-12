@@ -1,6 +1,6 @@
 # WebSpider
 
-Welcome to WebSpider! This project is a comprehensive web crawler designed to index large portions of the internet efficiently and effectively. Below, you'll find an overview of what WebSpider does, how it works, and how you can get started.
+Welcome to WebSpider! This project is a comprehensive web crawler designed to index large portions of the internet efficiently and effectively. You can retrieve the data based on semantic similarity. Below, you'll find an overview of what WebSpider does, how it works, and how you can get started.
 
 ## Features
 
@@ -10,7 +10,7 @@ Welcome to WebSpider! This project is a comprehensive web crawler designed to in
 - **Unicode Handling:** Properly handles and converts Unicode escape sequences to ensure accurate data extraction.
 - **Intelligent Queuing:** Prioritizes URLs within the same domain and efficiently manages the crawling queue.
 - **Metadata Extraction:** Extracts essential metadata such as titles, descriptions, last modified dates, and change frequency.
-- **Database Integration:** Saves crawled data in a structured format, ready for database insertion.
+- **Database Integration:** Saves crawled data in a structured format, ready for database insertion. 
 
 ## Installation
 
