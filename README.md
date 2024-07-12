@@ -35,12 +35,13 @@ The crawler will start indexing the internet from a predefined list of seed URLs
 <br />
 Here is a brief overview of the main components of the WebSpider:
 
-Crawling Logic: The crawl function handles the core crawling process, fetching pages, extracting metadata, and managing the crawling queue.
-Sitemap Handling: Functions like get_sitemap_data and parse_sitemap_data are responsible for fetching and parsing sitemap.xml files.
-User-Agent Management: The get_useragent function randomly selects a user-agent from a list to avoid detection.
-Unicode Handling: The convert_unicode_escape function ensures that Unicode escape sequences are properly converted.
-Database Integration: The do_db function (imported from the db module) saves crawled data in a structured format.
-Contributing
+- **Crawling Logic:** The crawl function handles the core crawling process, fetching pages, extracting metadata, and managing the crawling queue.
+- **Sitemap Handling:** Functions like get_sitemap_data and parse_sitemap_data are responsible for fetching and parsing sitemap.xml files.
+- **User-Agent Management:** The get_useragent function randomly selects a user-agent from a list to avoid detection.
+- **Unicode Handling:** The convert_unicode_escape function ensures that Unicode escape sequences are properly converted.
+- **Database Integration:** The do_db function (imported from the db module) saves crawled data in a structured format.
+
+## Contributing
 
 ## We welcome contributions! If you have ideas for new features, optimizations, or bug fixes, feel free to open an issue or submit a pull request.
 
