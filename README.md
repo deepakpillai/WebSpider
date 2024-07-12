@@ -27,7 +27,7 @@ To run the WebSpider, simply execute the main script:
 
 ```bash
 
-python webspider.py
+python app.py
 ```
 The crawler will start indexing the internet from a predefined list of seed URLs. You can customize the seed URLs in the script as per your requirements.
 
