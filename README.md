@@ -3,7 +3,6 @@
 Welcome to WebSpider! This project is a comprehensive web crawler designed to index large portions of the internet efficiently and effectively. You can retrieve the data based on semantic similarity. Below, you'll find an overview of what WebSpider does, how it works, and how you can get started.
 
 <img align="left" src="https://github.com/deepakpillai/WebSpider/blob/main/spider_banner.jpg?raw=true" width="100%"/>
-<br />
 
 ## Features
 
